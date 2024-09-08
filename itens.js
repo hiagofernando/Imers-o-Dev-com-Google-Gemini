@@ -1,9 +1,7 @@
 let itens = [
     {
-        titulo: "Ryzen 5600g",
-        link: "#",
-        descricao: "Ryzen 5 5600G: Um Processador Versátil para Diversas Tarefas\nRyzen 5 5600G é um processador da AMD que se destaca por oferecer um bom equilíbrio entre desempenho e eficiência energética. Com sua arquitetura Zen 3, ele proporciona um excelente desempenho em diversas tarefas, desde produtividade e criação de conteúdo até jogos.",
-        tags:" video integrado"
+        titulo: "Evento em São Miguel",
+        tags:"Sao miguel"
       },
       {
         titulo: "Placa de Video Rx 580",
